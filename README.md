@@ -1,0 +1,1 @@
+This repository is a set of scripts used to perform variational perturbation theory calculations on the quartic anharmonic oscillator, for OSU SRP. The final poster is also given. I have also put up a set of LaTeX documents that I wrote for expository reasons which aren't "research", just instructional.
